@@ -1,0 +1,42 @@
+body
+{
+    text-align: center;
+    font-family: 'Hind', sans-serif;
+    margin: 0px;
+    background-image: url("Images/16934028_5813370.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    margin: 0px;
+    font-size: 3.5rem;
+    padding-top: 8.5rem;
+}
+.logo
+{
+    position: absolute;
+    border-radius: 10%;
+    width: 7rem;
+    height: 7rem;
+    top: 20px;
+    left: 20px;
+}
+.goto
+{
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 200px;
+    height: 80px;
+    font-size: 1.5rem;
+    border-radius: 20px;
+    background-color: #F97B22;
+    color: #2C3333;
+    cursor: pointer;
+}
+.goto:hover
+{
+    font-size: 1.7rem;
+    color: #0A4D68;
+}
