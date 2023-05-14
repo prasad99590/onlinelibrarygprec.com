@@ -1,0 +1,45 @@
+body
+{
+    text-align: center;
+    font-family: 'Hind', sans-serif;
+    background-color: #ABC4AA;
+    background-image: url("../Images/pexels-jess-bailey-designs-1097930.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 5rem;
+}
+h1
+{
+    padding-top: 5rem;
+    font-size: 3rem;
+}
+.year
+{
+    margin: 0px;
+}
+.branch
+{
+    margin: 0px;
+}
+.option
+{
+    font-size: 1.2rem;
+    width: 200px;
+    height: 50px;
+    margin: 20px auto;
+    background-color: #F97B22;
+    color: #2C3333;
+    border-radius: 15px;
+    cursor: pointer;
+}
+form
+{
+    margin: 0px;
+}
+.option:hover
+{
+    color: #191825;
+    font-size: 1.5rem;
+}
